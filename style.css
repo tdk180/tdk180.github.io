@@ -25,6 +25,14 @@ body {
 
 
 @media screen and (max-width: 800px) {
+  div.first-page  {
+    background-image: none;
+    height: 100%;
+  }
+}
+
+
+@media screen and (max-width: 800px) {
   div.first-page h1 {
     font-size: 6vh;
   }
