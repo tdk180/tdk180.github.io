@@ -10,7 +10,9 @@ body {
   background-color: white;
   position: relative;
   z-index: 10;
-
+  background-image: url('/icon/frame.png');
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .first-page h1 {
